@@ -1,10 +1,10 @@
 # PHP SERVER2
 ## How to use
-* ```sh
+ ```sh
 $ git clone http://github.com/urahara-12/server2.git
 ```
 * change your httpd.conf configs from htdocs to the web directory (server2/web)
-* ```sh
+ ```sh
 $ cd server2
 $ ./test.sh
 ```
